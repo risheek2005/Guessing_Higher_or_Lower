@@ -18,24 +18,6 @@ This is a simple command-line game where the user guesses which celebrity, brand
 
 Python 3.x. (No external libraries are required.)
 
-## Getting Started:-
-
-1. Clone this repository:
-
-bash
-
-git clone https://github.com/your-username/instagram-higher-lower.git
-
-cd instagram-higher-lower
-
-2. Run the Game:
-
-bash
-
-python main.py
-
-3. Follow the on-screen prompts to play the game.
-
 ## Contributing:-
 
 Feel free to fork the repository and add new features or update the data file. Pull requests are welcome!
